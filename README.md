@@ -1,10 +1,10 @@
-### Gopilot - Plataforma Web de Aprendizado de Go
+# Gopilot - Plataforma Web de Aprendizado de Go
 
 <div>
 
-`<h3>`Aprenda Go de forma divertida e interativa através da web`</h3>`
+<h3>Aprenda Go de forma divertida e interativa através da web</h3>
 
-</div>## 📋 Índice
+</div>📋 Índice
 
 - [Visão Geral](#visão-geral)
 - [Funcionalidades](#funcionalidades)
@@ -16,7 +16,6 @@
 - [Solução de Problemas](#solução-de-problemas)
 - [Próximos Passos](#próximos-passos)
 - [Contribuição](#contribuição)
-- [Licença](#licença)
 
 
 ## 🔍 Visão Geral
@@ -215,13 +214,6 @@ Contribuições são bem-vindas! Para contribuir:
 4. Faça push para a branch (`git push origin feature/nova-feature`)
 5. Abra um Pull Request
 
-
-## 📄 Licença
-
-Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
-
----
-
-<div>`<p>`Desenvolvido com ❤️ para entusiastas da linguagem Go`</p>`
+<div><p>Desenvolvido com ❤️ para entusiastas da linguagem Go</p>
 
 </div>
